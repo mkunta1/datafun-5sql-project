@@ -1,0 +1,28 @@
+2024-10-03 22:10:26,766 - INFO - Executed SQL from sql\create_tables.sql
+2024-10-03 22:10:26,775 - INFO - Executed SQL from sql\insert_records.sql
+2024-10-03 22:10:26,775 - INFO - Program ended
+2024-10-03 22:13:52,601 - INFO - Executed SQL from sql\create_tables.sql
+2024-10-03 22:13:52,610 - INFO - Executed SQL from sql\insert_records.sql
+2024-10-03 22:13:52,610 - INFO - Executed SQL from sql\update_records.sql
+2024-10-03 22:13:52,612 - INFO - Executed SQL from sql\delete_records.sql
+2024-10-03 22:13:52,612 - INFO - Program ended
+2024-10-03 22:17:17,832 - INFO - Executed SQL from sql\create_tables.sql
+2024-10-03 22:17:17,840 - INFO - Executed SQL from sql\insert_records.sql
+2024-10-03 22:17:17,841 - INFO - Executed SQL from sql\update_records.sql
+2024-10-03 22:17:17,841 - INFO - Executed SQL from sql\delete_records.sql
+2024-10-03 22:17:17,842 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-10-03 22:17:17,842 - INFO - Executed SQL from sql\query_filter.sql
+2024-10-03 22:17:17,843 - INFO - Executed SQL from sql\query_sorting.sql
+2024-10-03 22:17:17,845 - INFO - Executed SQL from sql\query_group_by.sql
+2024-10-03 22:17:17,845 - INFO - Executed SQL from sql\query_join.sql
+2024-10-03 22:17:17,845 - INFO - Program ended
+2024-10-07 00:00:15,382 - INFO - Executed SQL from sql\create_tables.sql
+2024-10-07 00:00:15,391 - INFO - Executed SQL from sql\insert_records.sql
+2024-10-07 00:00:15,392 - INFO - Executed SQL from sql\update_records.sql
+2024-10-07 00:00:15,393 - INFO - Executed SQL from sql\delete_records.sql
+2024-10-07 00:00:15,393 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-10-07 00:00:15,394 - INFO - Executed SQL from sql\query_filter.sql
+2024-10-07 00:00:15,395 - INFO - Executed SQL from sql\query_sorting.sql
+2024-10-07 00:00:15,396 - INFO - Executed SQL from sql\query_group_by.sql
+2024-10-07 00:00:15,396 - INFO - Executed SQL from sql\query_join.sql
+2024-10-07 00:00:15,396 - INFO - Program ended
